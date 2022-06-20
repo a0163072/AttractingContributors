@@ -28,9 +28,10 @@ Tell me the name of table game!
 5.  Catan  
 6.  Backgammon  
 7.  Go
-8.  Nanjamonja
-9.  
-10.      
+8.  Nanjamonja  
+9.  chess  
+10.  
+     
 
 
 

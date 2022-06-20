@@ -30,4 +30,4 @@ Eg: Osaka
 ７：Mie
 ８：Ikoma
 ９： Fukuoka!
-１０：
+１０：Kyoto
